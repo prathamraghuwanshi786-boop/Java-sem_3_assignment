@@ -1,12 +1,14 @@
-package Assignment1.Question1;
+/*
+   Student Name : Anant Pratap Singh
+    Roll Number : BCS2025542
+    Course : B.Tech CSE
+    Subject : Introduction to Programming using Java Lab (BCS351)
+    Assignment: 1, Question: 1
+*/
 
- class Main {
-public static void main(String[] args) {
-   int a = 10;
-   int b = 20;
-   int sum = a + b;
-    System.out.println("The sum of " + a + " and " + b + " is: " + sum);
-
-
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+        System.out.println("Welcome to Java");
     }
 }
